@@ -5,9 +5,8 @@
 ---
 <img src="https://user-images.githubusercontent.com/32653955/31869017-0193769a-b773-11e7-91d0-2c8085c9bd4d.png" width="275" height="475">
 
+## PROJECT LICENSE
 ```
-PROJECT LICENSE
-
 This project was submitted by Nishant Patel as part of the Nanodegree At Udacity.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
