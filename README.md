@@ -1,6 +1,16 @@
-# HolidayCard
+# UNDHolidayCard - A single page greeting app
 
-- Single page card app
+Project as a part of nano-degree at [Udacity](https://www.udacity.com/).
+
+### Project rubic
+
+Take a piece of paper. Think of someone you’d like to make a card for and sketch out a unique card design. It can be a birthday card, mother’s day card, congratulations card, just because card, halloween card, so on. Then make the card, using all views and view groups. Try to make your card in as simple and clear a way as possible, and to avoid using fixed widths or heights.
+
+#### Helpers :smiley:
+
+- ReativeLayout
+- ImageView
+- TextViews
 
 ## UX
 <img src="https://user-images.githubusercontent.com/32653955/31869017-0193769a-b773-11e7-91d0-2c8085c9bd4d.png" width="275" height="475">
